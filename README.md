@@ -66,12 +66,14 @@ This project is an interactive Power BI dashboard designed to analyze E-Commerce
 | Shipping Analysis | Shipping mode performance |
 
 ## Project Structure
+
+```text
 powerbi-ecommerce-sales-dashboard/
-│
 ├── README.md
 ├── Ecommerce_Sales_Dashboard.pbix
 ├── dataset.csv
 └── dashboard.png
+```
 
 # Key Insights
 
